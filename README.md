@@ -1,6 +1,6 @@
 [cuidados_integrales.html](https://github.com/user-attachments/files/23025009/cuidados_integrales.html)
 <!DOCTYPE html>
-<html lang="es">
+<html lang="[WhatsApp Image 2025-10-21 at 10 10 11 AM](https://github.com/user-attachments/assets/941a9dfc-30e1-4416-b787-dbfb598ac800)">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
